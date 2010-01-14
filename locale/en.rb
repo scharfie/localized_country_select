@@ -59,7 +59,6 @@
 			:CX => "Christmas Island",
 			:CY => "Cyprus",
 			:CZ => "Czech Republic",
-			:DD => "East Germany",
 			:DE => "Germany",
 			:DJ => "Djibouti",
 			:DK => "Denmark",
